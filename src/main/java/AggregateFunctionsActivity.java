@@ -27,10 +27,6 @@ import java.sql.*;
  *
  * Example: You might use the SUM() function to find the total of all employee salaries:
  *      SELECT SUM(salary) FROM employee;
- *
- * Additional reference material if needed:
- *      - https://www.w3schools.com/sql/sql_count_avg_sum.asp
- *      - https://www.postgresql.org/docs/9.5/functions-aggregate.html
  */
 public class AggregateFunctionsActivity {
 /**
